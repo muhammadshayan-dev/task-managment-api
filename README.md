@@ -9,7 +9,7 @@ A robust, production-ready RESTful API built with **FastAPI**, **SQLAlchemy**, *
 - **Task Management**: Full CRUD operations with task ownership isolation.
 - **Search, Filter & Sort**: Query tasks by status, priority, text search, and priority sorting.
 - **Database**: PostgreSQL with Alembic migrations and SQLAlchemy ORM.
-- **Testing**: Automated test suite with 'pytest' (42 tests passing; no deprecation warnings).
+- **Testing**: Automated test suite with `pytest` (42 tests passing; no deprecation warnings).
 - **Containerization**: Fully Dockerized with Docker Compose.
 
 ---
@@ -32,4 +32,4 @@ Task-Management-API/
 ├── docker-compose.yml
 ├── Dockerfile
 ├── requirements.txt
-└── PHASE_10_TESTING_REPORT.md
+└── TESTING_AND_QUALITY_REPORT.md
